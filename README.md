@@ -159,4 +159,22 @@ dotnet ef database update --project RoseApp.Infrastructure --startup-project Ros
 dotnet run --project RoseApp.API
 ```
 
+**5. Open Swagger**
+
+```text
+https://localhost:7290/swagger
+```
+
+---
+
+## 📖 API Documentation
+
+The API is documented using **Swagger / OpenAPI**, allowing you to explore and test the available endpoints directly through Swagger UI.
+
+---
+
+[GitHub](https://github.com/HazemSaad1) · [LinkedIn](https://www.linkedin.com/)
+
+---
+
 ⭐ If you find this project interesting, feel free to explore the repository and share your feedback!
