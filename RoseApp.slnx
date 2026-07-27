@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RoseApp.API/RoseApp.API.csproj" />
+  <Project Path="RoseApp.Application/RoseApp.Application.csproj" Id="6e08a895-fd08-4498-9cf7-390606415b85" />
+  <Project Path="RoseApp.Domain/RoseApp.Domain.csproj" Id="19ce5ad3-c584-45aa-915b-52838a78d643" />
+  <Project Path="RoseApp.Infrastructure/RoseApp.Infrastructure.csproj" Id="ae1cb822-89fc-4636-b494-2af7ae480c04" />
+</Solution>
