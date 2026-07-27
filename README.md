@@ -145,21 +145,7 @@ Update `RoseApp.API/appsettings.json` with your own:
 * Cloudinary credentials
 * Redis connection string
 
-> ⚠️ Never commit real secrets or API keys to source control.
-
-**3. Apply migrations**
-
-```bash
-dotnet ef database update --project RoseApp.Infrastructure --startup-project RoseApp.API
-```
-
-**4. Run the API**
-
-```bash
-dotnet run --project RoseApp.API
-```
-
-**5. Open Swagger**
+**2. Open Swagger**
 
 ```text
 https://localhost:7290/swagger
